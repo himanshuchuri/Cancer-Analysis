@@ -10,6 +10,9 @@
   In order to confirm this here is a visualization of the cancer data.
 
 # Dataset:
+
+ ## This project uses the latest (as of March 23 2024) the latest CI5 dataset - CI5-XII
+  
  ## Reference: 
    Bray F, Colombet M, Aitken JF, Bardot A, Eser S, Galceran J, Hagenimana M, Matsuda T, Mery L, Piñeros M, Soerjomataram I, de Vries E, Wiggins C, Won Y-J, Znaor A, Ferlay J, editors (2023). Cancer Incidence in Five Continents, Vol. XII (IARC CancerBase No. 19). Lyon: International Agency for Research on Cancer. Available from: https://ci5.iarc.who.int, accessed 03/23/2024
    
@@ -23,4 +26,3 @@
      
 The material accessible through this application contains the basic data published in the 12 volumes of CI5.
 
-This project uses the latest (as of March 23 2024) the latest Ci5 dataset - CI5-XII
