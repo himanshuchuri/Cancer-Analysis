@@ -20,9 +20,6 @@
 
 ## Details:
   The overall objective of the Cancer Incidence in Five Continents (CI5) series is to make available comparable data on cancer incidence from as wide a range of geographical locations worldwide as possible. Traditionally, this has been through publication of a volume containing tabulations of cancer incidence rates at approximately five year intervals. The volumes contain three basic elements:
-   * tabulations from individual registries presenting incidence rates according to sex, age group, and cancer site;
-   * summary tables permitting comparisons between registries;
-   * tables presenting indices of the validity and completeness of the different contributions. Each volume has seen substantial innovation with a view to providing more information while preserving the basic core data and layout. The cancer registries that have provided the data are members of the International Association of Cancer Registries.
-     
-The material accessible through this application contains the basic data published in the 12 volumes of CI5.
-
+   * Tabulations from individual registries presenting incidence rates according to sex, age group, and cancer site;
+   * Summary tables permitting comparisons between registries;
+   * Tables presenting indices of the validity and completeness of the different contributions. Each volume has seen substantial innovation with a view to providing more information While preserving the basic core data and layout. The cancer registries that have provided the data are members of the International Association of Cancer Registries.
