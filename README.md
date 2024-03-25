@@ -44,7 +44,7 @@ The dataset contains CSV files for each continenet. Tech continent has 3 files a
     Columns: REGISTRY,YEAR,SEX,CANCER,TOTAL,N0_4,N5_9,N10_14,N15_19,N20_24,N25_29,N30_34,N35_39,N40_44,N45_49,N50_54,N55_59,N60_64,N65_69,N70_74,N75_79,N80_84,N85+,N_UNK
 
 
-  ## Steps:
+## Steps:
     The data is loaded and preprocessed to change it onto a format suitaable for visualization.
     The major processes involved are Cleaning, Pivoting, etc.
     More details are in the data.ipynb file in  this repository.
