@@ -1,6 +1,6 @@
 # About:
 
-Since the past couple of months, I have neen hearing a lot of cancer bein diagnosed among celebrities as well as from my mother who is a medical practitioner, and most of the people who have been diagnesed are relatively in their 30's and 40's (young adults). According to the the National Cancer Institute (NCI) the median age for cancer disgnostics is 66 (https://www.cancer.gov/about-cancer/causes-prevention/risk/age#:~:text=For%20example%2C%20the%20median%20age,be%20diagnosed%20at%20any%20age).
+Since the past couple of months, I have neen hearing a lot of cancer bein diagnosed among celebrities as well as from my mother who is a medical practitioner, and most of the people who have been diagnesed are relatively in their 20's and 40's (young adults). According to the the National Cancer Institute (NCI) the median age for cancer disgnostics is 66 (https://www.cancer.gov/about-cancer/causes-prevention/risk/age#:~:text=For%20example%2C%20the%20median%20age,be%20diagnosed%20at%20any%20age).
 
 The posible explainations for this could be:
 
@@ -19,6 +19,7 @@ In order to confirm this here is a visualization of the cancer data.
 Bray F, Colombet M, Aitken JF, Bardot A, Eser S, Galceran J, Hagenimana M, Matsuda T, Mery L, Piñeros M, Soerjomataram I, de Vries E, Wiggins C, Won Y-J, Znaor A, Ferlay J, editors (2023). Cancer Incidence in Five Continents, Vol. XII (IARC CancerBase No. 19). Lyon: International Agency for Research on Cancer. Available from: https://ci5.iarc.who.int, accessed 03/23/2024
 
 Link: https://ci5.iarc.fr/ci5-xii/
+
 
 ## Details:
 
@@ -48,7 +49,24 @@ The dataset contains CSV files for each continenet. Tech continent has 3 files a
     The data is loaded and preprocessed to change it onto a format suitaable for visualization.
     The major processes involved are Cleaning, Pivoting, etc.
     More details are in the data.ipynb file in  this repository.
-    These files are saved anter pre-precessing is completer and imported in tableau for visualization.
+    These files are saved after pre-precessing is completed and imported in tableau for visualization.
 
+
+## Results:
+
+* The visualization shows that a significant number of cancer cases are diagnosed among young adults (20-44 years old) for various types of cancer including thyroid, breast, melanoma of skin, testis, cervix uteri, and others.
+
+* It is important to note that this data is just a small piece of the puzzle. More research is needed to understand why we are seeing a rise in early-onset cancers. Some possible explanations include earlier diagnoses due to increased public awareness and improved screening techniques, lifestyle changes, environmental exposures, or even unidentified factors.
+
+
+### Here are some findings from the visualization:
+
+
+
+1. The visualization shows a significant number of cancer cases diagnosed among young adults (20-44 years old) for various types of cancer.
+2. This is consistent with recent studies that suggest cancer rates are increasing in younger adults.
+3. More research is needed to understand the reasons behind this rise.
+
+Link to the Dashboard: https://public.tableau.com/views/CancerAnalysis_17113082552350/CancerAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 
