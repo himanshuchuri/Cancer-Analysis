@@ -61,7 +61,7 @@ The dataset contains CSV files for each continenet. Tech continent has 3 files a
 
 ### Here are some findings from the visualization:
 
-![Dashboard Image](Dashboard/Screenshot 2024-03-24 at 11.17.01 PM.png)
+![Dashboard Image](https://github.com/himanshuchuri/Cancer-Analysis/blob/e848f6da523c8f8327e3c92bdaca54fc94e8786b/Dashboard/Screenshot%202024-03-24%20at%2011.17.01%E2%80%AFPM.png)
 
 1. The visualization shows a significant number of cancer cases diagnosed among young adults (20-44 years old) for various types of cancer.
 2. This is consistent with recent studies that suggest cancer rates are increasing in younger adults.
